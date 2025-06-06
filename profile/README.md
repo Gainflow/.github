@@ -5,7 +5,7 @@
 ## 🚀 Features
 
 - **Workout Tracking**  
-  Log your exercises, sets, reps, and weights with ease. Whether you lift, run, or train calisthenics. Gainflow adapts to your routine.
+  Log your exercises, sets, reps, and weights with ease. Whether you lift, run, or train calisthenics, Gainflow adapts to your routine.
 
 - **Progress Analytics**  
   Visualize your performance with beautiful charts. Track strength gains, training volume, and personal records over time.
@@ -17,6 +17,8 @@
 
 The official release of Gainflow is coming in **May 2025**.  
 Stay tuned — we're just getting started.
+
+- **Early Access Now Open**: Get started today on Android by joining our Early Access program [here](https://play.google.com/store/apps/details?id=com.dawidzareba.Gainflow).
 
 ## 📲 Available On
 
