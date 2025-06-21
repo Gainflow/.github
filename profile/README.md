@@ -18,7 +18,7 @@
 The official release of Gainflow is coming in **May 2025**.  
 Stay tuned — we're just getting started.
 
-- **Early Access Now Open**: Get started today on Android by joining our Early Access program [here](https://play.google.com/store/apps/details?id=com.dawidzareba.Gainflow).
+- **Beta is now open!**: Get started today on Android [here](https://play.google.com/store/apps/details?id=com.dawidzareba.Gainflow).
 
 ## 📲 Available On
 
